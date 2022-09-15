@@ -1,0 +1,121 @@
+
+Half Hour Data Point:
+0.28003
+Half Hour Data Point:
+0.280792
+Half Hour Data Point:
+0.265802
+Half Hour Data Point:
+0.26617
+Half Hour Data Point:
+0.266345
+Half Hour Data Point:
+0.266293
+Half Hour Data Point:
+0.266212
+Half Hour Data Point:
+0.266435
+Half Hour Data Point:
+0.266326
+Half Hour Data Point:
+0.266288
+Hour Min Data Point:
+0.266458
+Half Hour Data Point:
+0.266458
+Half Hour Data Point:
+0.267683
+Half Hour Data Point:
+0.268021
+Hour Min Data Point:
+0.266847
+Half Hour Data Point:
+0.266847
+Half Hour Data Point:
+0.266847
+Half Hour Data Point:
+0.269229
+Hour Min Data Point:
+0.267925
+Half Hour Data Point:
+0.267925
+Half Hour Data Point:
+0.267925
+Hour Min Data Point:
+0.267534
+Half Hour Data Point:
+0.267534
+Half Hour Data Point:
+0.267534
+Hour Min Data Point:
+0.268788
+Half Hour Data Point:
+0.268788
+Half Hour Data Point:
+0.268788
+Hour Min Data Point:
+0.27022
+Half Hour Data Point:
+0.27022
+Half Hour Data Point:
+0.27022
+Hour Min Data Point:
+0.270685
+Half Hour Data Point:
+0.270685
+Half Hour Data Point:
+0.270685
+Hour Min Data Point:
+0.270607
+Half Hour Data Point:
+0.270607
+Half Hour Data Point:
+0.270607
+Hour Min Data Point:
+0.270027
+Half Hour Data Point:
+0.270027
+Half Hour Data Point:
+0.270027
+Hour Min Data Point:
+0.26783
+Half Hour Data Point:
+0.26783
+Half Hour Data Point:
+0.26783
+Hour Min Data Point:
+0.268677
+Half Hour Data Point:
+0.268677
+Half Hour Data Point:
+0.268677
+Hour Min Data Point:
+0.27132
+Half Hour Data Point:
+0.27132
+Half Hour Data Point:
+0.27132
+Hour Min Data Point:
+0.271835
+Half Hour Data Point:
+0.271835
+Half Hour Data Point:
+0.271835
+Hour Min Data Point:
+0.312485
+Half Hour Data Point:
+0.312485
+Half Hour Data Point:
+0.312485
+Hour Min Data Point:
+0.62174
+Half Hour Data Point:
+0.62174
+Half Hour Data Point:
+0.62174
+Hour Min Data Point:
+0.23668
+Half Hour Data Point:
+0.23668
+Half Hour Data Point:
+0.23668

@@ -1,0 +1,14 @@
+For the main method, have it start off by logging in of course
+In the RobinhoodFormulas.py make a counter for how long should be waited before actually trying to buy stock. As of right now, I'd say at least a full collection of data (dataPoints should be full or 28/30 counts. It may honestly be best to just add the delay to dataPoints
+After the counter is done, it should be good to buy/sell stock and crypto. 
+In the main method, make an if statement for once the delay has reached 30, it runs a function to determine what the code should do. 
+As for how to determine what to do, use the get_percentage_changes() in the method. The method that the main code calls should do all the work and have it return an array with all of the stocks to buy. As of right now that will only be one stock but in the future this method that is called will be an array such that it tells the main code how much of what to buy. 
+In the following line, have it buy/sell however much the previous method determined and subtract that amount from the money allotted to the program. Continue this loop. It may also be smart to set a delay on the Buying and selling. At least 5 min so...60 counts? We can also put that in dataPoints.
+
+
+
+For testing purpose, here are my currently set options:
+	- if Immediate change > .2% and half hr change > .5% buy with 45% cash
+	- if Immediate change < -.2% and half hr change < -1% sell 40%
+
+How to read the buy_or_sell array in RobinhoodFormulas: [[SYMBOL, BUY/SELL FLOAT]] if the float is positive, buy, if negative sell. 
